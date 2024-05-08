@@ -4,7 +4,7 @@
         return
     end
 local Window = OrionLib:MakeWindow({
-        Name = "MercilessHub",
+        Name = "CornHub",
         HidePremium = false,
         SaveConfig = true,
         ConfigFolder = "WendelCfg",
